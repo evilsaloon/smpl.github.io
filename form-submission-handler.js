@@ -73,7 +73,7 @@
       if (!document.querySelector('#flexCheckDefault').checked) {
         document.querySelector('.form-check').style.border = "3px solid red"
         req = false;
-      } else document.querySelector('#flexCheckDefault').style.border = "3px solid black"
+      } else document.querySelector('.form-check').style.border = "3px solid black"
 
       if(!req)return false;
       var url = 'https://script.google.com/macros/s/AKfycbwEaDRTESp6-d3vy9s-UppjSv8JXV4UOMPFSMzw9_adaeqc3XiwtKqM_OC1_zF3iyV4/exec';

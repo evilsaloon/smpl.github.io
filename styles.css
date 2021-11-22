@@ -109,3 +109,11 @@ fieldset p {
 .blank{
   margin-bottom: 132px;
 }
+img.ds{
+  max-width: 8vh;
+  height: auto;
+}
+img.icon{
+  max-width: 25vh;
+  height: auto;
+}
