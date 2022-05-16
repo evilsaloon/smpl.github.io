@@ -75,7 +75,7 @@ p {
     bottom: -3px;
     left: -3px;
     right: -3px;
-    background: linear-gradient(120deg, #FFA500 25%, #BD00FF 50%, #FF0000 75%);
+    background: #FFA500;
     border-radius: 20px;
     z-index: -1;
 }
